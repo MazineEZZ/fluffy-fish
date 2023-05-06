@@ -1,0 +1,8 @@
+SIZE = WIDTH, HEIGHT = (480, 700)
+FPS = 120
+
+# Colors
+WHITE = (255, 255, 255)
+GREY = (128, 128, 128)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
